@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unity Concepts", "Unity Concepts", "{C6339A5F-0796-D5D1-02C2-314FF2465DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Unity Concepts\Assembly-CSharp-Editor.csproj", "{DCF8A225-14CF-6232-782B-7F4ED3EBEB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Unity Concepts\Assembly-CSharp.csproj", "{0AB0CBA3-98D8-1DDC-986A-7221062481C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF8A225-14CF-6232-782B-7F4ED3EBEB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF8A225-14CF-6232-782B-7F4ED3EBEB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF8A225-14CF-6232-782B-7F4ED3EBEB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF8A225-14CF-6232-782B-7F4ED3EBEB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB0CBA3-98D8-1DDC-986A-7221062481C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB0CBA3-98D8-1DDC-986A-7221062481C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB0CBA3-98D8-1DDC-986A-7221062481C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB0CBA3-98D8-1DDC-986A-7221062481C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCF8A225-14CF-6232-782B-7F4ED3EBEB17} = {C6339A5F-0796-D5D1-02C2-314FF2465DE6}
+		{0AB0CBA3-98D8-1DDC-986A-7221062481C1} = {C6339A5F-0796-D5D1-02C2-314FF2465DE6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1DC7D1-06D4-4E55-9E02-77A5A6B10BF3}
+	EndGlobalSection
+EndGlobal
